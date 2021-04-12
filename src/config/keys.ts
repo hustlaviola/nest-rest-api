@@ -1,3 +1,4 @@
 export default {
-  mongoURI: '<Mongo URI>',
+  mongoURI:
+    'mongodb+srv://viola:viola@testcluster.d3vwr.mongodb.net/nest-rest?retryWrites=true&w=majority',
 };
